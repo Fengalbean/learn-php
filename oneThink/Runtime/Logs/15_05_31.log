@@ -1,0 +1,6 @@
+[ 2015-05-31T23:43:24+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+ERR: MySQL server has gone away
+
+[ 2015-05-31T23:43:40+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+ERR: MySQL server has gone away
+
